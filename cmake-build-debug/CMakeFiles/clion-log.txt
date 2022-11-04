@@ -1,0 +1,10 @@
+"F:\_Prj\Prog\CLion 2022.2.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=F:/_Prj/Prog/CLion 2022.2.2/bin/ninja/win/ninja.exe" -G Ninja -S F:\_Prj\Prog\Project\CmakeOpencvLinkTest -B F:\_Prj\Prog\Project\CmakeOpencvLinkTest\cmake-build-debug
+-- OpenCV ARCH: x64
+-- OpenCV RUNTIME: vc15
+-- OpenCV STATIC: OFF
+-- Found OpenCV: C:/opencv/opencv/build (found version "4.6.0") 
+-- Found OpenCV 4.6.0 in C:/opencv/opencv/build/x64/vc15/lib
+-- You might need to add C:\opencv\opencv\build\x64\vc15\bin to your PATH to be able to run your applications.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: F:/_Prj/Prog/Project/CmakeOpencvLinkTest/cmake-build-debug
