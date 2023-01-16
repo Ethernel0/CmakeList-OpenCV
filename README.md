@@ -6,7 +6,11 @@ https://youtu.be/fjq8eTuHnMM
 
 **Probably everything you need, or you can clone the repo and try it out yourself !**
 Before starting, in this example the pre-built OpenCV package is installed from "https://community.chocolatey.org/packages/OpenCV"
-And If I'm not wrong it's built for Microsoft Visual Studio compiler, so you'll need to use "cl" which is "Microsoft (R) C/C++ Optimizing Compiler Version 19.33.31630"
+And If I'm not wrong it's built for Microsoft Visual Studio compiler, so you'll need to use "cl" which is "Microsoft (R) C/C++ Optimizing Compiler"
+
+Microsoft Compiler :
+https://visualstudio.microsoft.com/downloads/
+https://aka.ms/vs/17/release/vs_BuildTools.exe
 
 If you want to use it with MinGW or GCC you will have to find the correct version for it or maybe build it yourself !
 
