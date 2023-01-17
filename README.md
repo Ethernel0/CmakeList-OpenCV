@@ -3,14 +3,13 @@
 
 **"How to configure CMAKELIST to use OpenCV"**
 https://youtu.be/fjq8eTuHnMM
+**"How to install Microsoft Compiler"**
+https://youtu.be/OJFeoXVeIY8
 
 **Probably everything you need, or you can clone the repo and try it out yourself !**
 Before starting, in this example the pre-built OpenCV package is installed from "https://community.chocolatey.org/packages/OpenCV"
 And If I'm not wrong it's built for Microsoft Visual Studio compiler, so you'll need to use "cl" which is "Microsoft (R) C/C++ Optimizing Compiler"
-
-Microsoft Compiler :
-https://visualstudio.microsoft.com/downloads/
-https://aka.ms/vs/17/release/vs_BuildTools.exe
+Check the second Youtube Video I've made to install the compiler !
 
 If you want to use it with MinGW or GCC you will have to find the correct version for it or maybe build it yourself !
 
@@ -19,7 +18,6 @@ If you want to use it with MinGW or GCC you will have to find the correct versio
 (Double click on "PATH" and create a new variable !)
 User Variables / Path / C:\tools\opencv\build\x64\vc15\bin
 ```
-
 
 >> System Variables:
 ```
