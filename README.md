@@ -2,10 +2,8 @@
 *Repository for my YouTube video !*
 
 **"How to configure CMAKELIST to use OpenCV"**
-https://youtu.be/fjq8eTuHnMM
 
 **"How to install Microsoft Compiler"**
-https://youtu.be/OJFeoXVeIY8
 
 **Probably everything you need, or you can clone the repo and try it out yourself !**
 Before starting, in this example the pre-built OpenCV package is installed from "https://community.chocolatey.org/packages/OpenCV"
